@@ -1,0 +1,219 @@
+@import url('https://fonts.googleapis.com/css?family=Roboto:100,200,300,400,500,600,700|Exo:100,200,300,400,500,600,700');
+
+
+
+
+/* ------------Heading--------- */
+
+header {
+    margin: 0;
+}
+
+#logo {
+    background-image: url("logo.JPG");
+    background-position:center;
+    background-repeat: no-repeat;
+    height: 150px;
+    max-width: 100%;
+    background-color: white
+
+}
+
+
+/*------Navbar-----*/
+
+
+ ul {
+    letter-spacing: 8px;
+    background-color: grey;
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    width: 100%;
+    text-align: center;     
+}
+
+ul li {
+    text-align: center;
+    padding: 20px;
+    text-decoration: none;
+    list-style-type: none;
+    display: inline-block;
+    float: none;
+   
+
+}
+
+/*------Navbar Hover-----*/
+
+
+ a:link {
+    color: white;
+    text-decoration: none;
+    }
+  
+     a:visited {
+     color: white;
+     text-decoration: none;
+        }
+    
+    a:hover {
+    color: black;
+    }
+
+/*------Start Image and text-----*/
+
+.hero-image {
+  background-image: url("fleet.JPG");
+}
+
+h1 {
+    text-align: center;
+    font-family: roboto;
+    align-items: center;
+   
+}
+
+
+/*------form----*/
+
+
+#form-center {
+    border-radius: 10px;
+    background-color: grey;
+    box-sizing: border-box;
+    font-family: roboto;
+    max-width: 550px;
+    padding: 15px;
+    font-size: 14px;
+    text-align: center;
+    margin-top: 100px;
+    margin-bottom: 100px;
+
+}
+
+
+h2 {
+font-family: roboto;
+color: white;
+}
+
+
+input {
+    font-size: 12px;
+    width: 250px;
+    box-sizing: border-box;
+    padding: 8px;
+    margin: 5px 0 5px;
+    border-radius: 4px;
+}
+
+textarea {
+    font-size: 12px;
+    width: 250px;
+    box-sizing: border-box;
+    padding: 8px;
+    margin: 5px 0 5px;
+    border-radius: 4px;
+    
+}
+
+
+#submit{
+    cursor: pointer;
+    font-size: 16px;
+    color: black;
+    background-color: white;
+  }
+
+
+
+  #submit:focus, #submit:hover{
+    background-color: darkgray;
+  }
+
+
+
+
+
+/*------About section-----*/
+
+#about-welcome {
+    text-align: center;
+   margin-top: 40px;
+   margin-bottom: 100px;
+ 
+}
+
+.about-text {
+    font-size: 16px;
+    color: black;
+    text-align: center;
+    float: right;
+    
+}
+
+
+#gard {
+    background-image: url("gard.jpg");
+    float: left;
+    
+}
+
+
+
+
+
+/*------Location Section-----*/
+
+#location {
+    background-color: grey;
+    display: block;
+    text-align: center;
+    list-style-type: none;
+    overflow: hidden;
+    width: 100%;
+    text-align: center;
+    letter-spacing: 2px;
+    margin: 0;
+    padding: 0;
+    
+    
+}
+
+#left-about{
+    padding-top: 2px;
+    width: 50%;
+    float: left;
+}
+
+#right-about {
+    padding-top: 2px;
+    width: 50%;
+    float: right;
+}
+
+
+
+
+/*------Footer-----*/
+
+
+h4 {
+    color: white;
+    font-size: 18px;
+    font-family: sans-serif;
+    
+}
+
+p  {
+    color: white;
+    font-size: 16px;
+    letter-spacing: 1px;
+    padding: 10px;
+    font-family: sans-serif;
+    
+}
+
+
