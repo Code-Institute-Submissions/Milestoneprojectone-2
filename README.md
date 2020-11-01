@@ -1,45 +1,101 @@
-<img src="https://codeinstitute.s3.amazonaws.com/fullstack/ci_logo_small.png" style="margin: 0;">
+<img src="https://raw.githubusercontent.com/mysan91/Milestoneprojectone/master/assets/images/project.JPG" style="width:850px">
 
-Welcome mysan91,
 
-This is the Code Institute student template for Gitpod. We have preinstalled all of the tools you need to get started. You can safely delete this README.md file, or change it for your own project. Please do read it at least once, though! It contains some important information about Gitpod and the extensions we use.
+# Robins Machines
 
-## Gitpod Reminders
+My Project is my partner`s company. It is a small company and runs some smaller jobs. The Project is about showing the iser what kind of company it is and what kind of jobs the dompany does.
 
-To run a frontend (HTML, CSS, Javascript only) application in Gitpod, in the terminal, type:
+## UX
 
-`python3 -m http.server`
+### Project Goals
+The goal of this project is to provide the user with information and knowledge about the company and the types os jobs preformed and also what kind of machines that is being used.
 
-A blue button should appear to click: *Make Public*,
+### User Goals 
+*Find the information needed about the company.
+*Find information about erlier jobs.    
+ *Images. 
+ *Contact the owner of the site. 
+ * Sent a email.
 
-Another blue button should appear to click: *Open Browser*.
+### User Stories
+     *As the user i want it to be easy to find the right type of information easy. 
+    * As the user i want i to be easy to see mail contact and the phone number. 
+    * As the user i want to be able to see a gallery of earlier work. 
+    * As the User i want to be able to sent a email to the owner for a request.
 
-To run a backend Python file, type `python3 app.py`, if your Python file is named `app.py` of course.
 
-A blue button should appear to click: *Make Public*,
+### Site Owner Goals
+ * As the owner i want it to be easy finding information about the company.
+  * As the owner i want a easy not complicated site.
+   * As the owner i want it to be easy to connect either by phone or email.
 
-Another blue button should appear to click: *Open Browser*.
+### User Requirements 
+*Having a good structure.
+* Navigate using a navbar. 
+*Visually appealing.
+* Footer with icons and locations and contact information. 
+* Having a contact form.
 
-In Gitpod you have superuser security privileges by default. Therefore you do not need to use the `sudo` (superuser do) command in the bash terminal in any of the lessons.
+### Design Choices 
+*I wanted to have a easy but informative website. 
+*I have chosen to include a few colors to get a simple and uniform website.
+*The colors is white and gray. Fonts being used is Roberto.
+* And the icons is from font Awsome and i adjusted the size of the icons so it looks more appealing.
 
-## Updates Since The Instructional Video
 
-We continually tweak and adjust this template to help give you the best experience. Here is the version history:
+The Index site Is the home page and it will be a navigation bar and a welcome note and one picture.
 
-**October 21 2020:** Versions of the HTMLHint, Prettier, Bootstrap4 CDN and Auto Close extensions updated. The Python extension needs to stay the same version for now.
+The about site Here is a shorter text about the company, visually a bit text and then the navigation bar and footer i showing. The Gallery site In the Gallery i have 4 pictures of the machines and a shorter text what the picture is about.
 
-**October 08 2020:** Additional large Gitpod files (`core.mongo*` and `core.python*`) are now hidden in the Explorer, and have been added to the `.gitignore` by default.
+The contact site On this site there is a form where you can send a request or just a question.
 
-**September 22 2020:** Gitpod occasionally creates large `core.Microsoft` files. These are now hidden in the Explorer. A `.gitignore` file has been created to make sure these files will not be committed, along with other common files.
+## Features
 
-**April 16 2020:** The template now automatically installs MySQL instead of relying on the Gitpod MySQL image. The message about a Python linter not being installed has been dealt with, and the set-up files are now hidden in the Gitpod file explorer.
 
-**April 13 2020:** Added the _Prettier_ code beautifier extension instead of the code formatter built-in to Gitpod.
+ ### Features that is implemented:
+ * Easy to navigate.
+* Contact form with send button.
+ * Icons with links to social media. 
+ * Contact information in the footer.
+  * Gallery o Easy structure o Responsive site that works in differens sizes.
 
-**February 2020:** The initialisation files now _do not_ auto-delete. They will remain in your project. You can safely ignore them. They just make sure that your workspace is configured correctly each time you open it. It will also prevent the Gitpod configuration popup from appearing.
+ ###### Features that will be implemented in the future: 
+ * More pictures in the gallery.
+  * Rolling pictures in the welcome site.
 
-**December 2019:** Added Eventyret's Bootstrap 4 extension. Type `!bscdn` in a HTML file to add the Bootstrap boilerplate. Check out the <a href="https://github.com/Eventyret/vscode-bcdn" target="_blank">README.md file at the official repo</a> for more options.
+## Technologies used 
 
---------
+### Languages 
+* HTML 
+* CSS
 
-Happy coding!
+### Tools & Libraries 
+* Git 
+*Font-Awsome
+* Google Fonts
+
+## Testing
+
+When testing i have been working with validator.w3.org for the HTML and for the CSS jogsaw.w3.org validator.
+
+When testing the first time i got a few errors regarding the icon links. And the links to each site. I first started doint the project in visual studios but later on changed to gitpod and then i hadent made a few changes to connect each website. And i also got a warning regardning one section that lacked a h element. And that has been changed so the warning isent showing.
+
+Testing later i got a few errors about the social links and icons that the end tag of was missing. The problem was then fixed and the error did not show again. Also one paragraph text missed the end tag and the problem was fixed.
+
+A lot of missing end tags at each time for testing. All has been fixed.
+
+When validating the Style css i got no errors.
+
+Been having problems with the commit to github. I started working in Visual studio code for the project and did almost everything in visual studios and when i tried to commit to github it dident work. 
+i insalled git and tried several times but it dident commit. So after a while i decided to try to get copy my code and putt it to gitpod so i could start commiting my code. 
+
+I did also have trubble to commit everything i noticed that when i did changes and then commitet every new code dident fallow. 
+
+
+## Credits
+
+Content The content is from my partner and me.
+
+Media The photos is from me and my partner.
+
+Acknowledgements I got insperations because my partner did not have a website for his company. Its something we talked about earlier so when the milestone came i already knew what to do.

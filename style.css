@@ -66,6 +66,9 @@ ul li {
 
 .hero-image {
   background-image: url("fleet.JPG");
+  background-position: center;
+  width: 350px;
+  height: 400px;
 }
 
 h1 {
