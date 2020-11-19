@@ -54,8 +54,7 @@ The Gallery section contains 6 pictures where there is also a shorter descriptio
 
 The Contact sections is with a form to make it easy to send a request and get in contact. 
 
-
-The page is a scrollpage with the footer and the navbar being fixed, if your scroll down the page both will fallow. 
+The site is a scrollpage with the footer and the navbar being fixed, if your scroll down the page both will fallow. 
 
 ## Features
 
@@ -65,7 +64,7 @@ The page is a scrollpage with the footer and the navbar being fixed, if your scr
 * Contact form with send button.
  * Icons with links to social media. 
  * Contact information in the footer.
-  * Gallery o Easy structure o Responsive site that works in differens sizes.
+  * Gallery and a Easy structure and Responsive site that works in differens sizes.
 
  ###### Features that will be implemented in the future: 
  * More pictures in the gallery.
@@ -89,18 +88,19 @@ The page is a scrollpage with the footer and the navbar being fixed, if your scr
 
 When testing i have been working with validator.w3.org for the HTML and for the CSS jogsaw.w3.org validator.
 
-When testing the first time i got a few errors regarding the icon links. A warning regardning one section that lacked a h element and a few misses to start or close the div and section tags. 
-
-
-
+When testing the first time i got a few errors regarding the icon links. A warning regardning a few section that lacked a h element and a few misses to start or close tags. Those have been fixed.
+ 
 
 When validating the Style css i got no errors.
 
-Been having problems with the commit to github. I started working in Visual studio code for the project and did almost everything in visual studios and when i tried to commit to github it dident work. 
-i insalled git and tried several times but it dident commit. So after a while i decided to try to get copy my code and putt it to gitpod so i could start commiting my code. 
 
-I did also have trubble to commit everything i noticed that when i did changes and then commitet every new code dident fallow. 
+### Testing Responsiveness On Different Devices
 
+* Hp laptop 
+* iPad Pro 11
+* iphone 8 Plus
+
+Works and adjusts well to the screen. 
 
 ## Credits
 
