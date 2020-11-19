@@ -39,8 +39,8 @@ The goal of this project is to provide the user with information and knowledge a
 * Having a contact form.
 
 ### Design Choices 
-*I wanted to have a easy but informative website. 
-*I have chosen to have the background colour in white and the font to be black. 
+* I wanted to have a easy but informative website. 
+* have chosen to have the background colour in white and the font to be black. 
 * Fonts being used is Roberto and Times new Roman. With the font sizes on 20px 18px. 
 * And the icons is from font Awsome and i adjusted the size of the icons so it looks more appealing.
 
@@ -93,6 +93,8 @@ When testing the first time i got a few errors regarding the icon links. A warni
 
 When validating the Style css i got no errors.
 
+<img src="https://raw.githubusercontent.com/mysan91/Milestoneprojectone/master/assets/images/css.JPG" style="width:500px">
+
 
 ### Testing Responsiveness On Different Devices
 
@@ -100,7 +102,15 @@ When validating the Style css i got no errors.
 * iPad Pro 11
 * iphone 8 Plus
 
-Works and adjusts well to the screen. 
+Works and adjusts well to the screen. The test was made with Google chrome inspect tool.
+
+## Deployment 
+The fallowing steps i made to deploy the project on to the github page.
+I logged in to my github account and then selected my repository. 
+I then chosed my project repostory mysan91/Milestoneprojectone and then at the top there is a setting button that i clicked. 
+Then i scrolled down to the Github Pages and under the source section i clicked on the NONE and in the dropdown i selected Master and then clicked the save button. 
+The page did refresh and i got message that my page is published at https://mysan91.github.io/Milestoneprojectone/ 
+
 
 ## Credits
 
