@@ -32,22 +32,15 @@ h1,h2,h3,h4,h5,h6 {
 
 /*------First section-----*/
 #home {
-    width: 100%;
-    
+    width: 100%;  
 }
 
+/*------Contact section-----*/
 
-/*------About section-----*/
+form{
+margin-bottom: 20px; 
 
-
-
-
-/*------Gallery with a width of 100% to adjust from different screens, Responsive-----*/
-
-#photo {
-    width: 100%;
-}
-
+    }
 
 
 /*------Footer section were i fixed the footer so it fallow on the page when scrolling-----*/
