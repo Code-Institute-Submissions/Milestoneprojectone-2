@@ -1,4 +1,4 @@
-<img src="https://github.com/mysan91/Milestoneprojectone/blob/4692e32a85aaecf9cecc770f20f81e1b1930d946/assets/images/one.JPG" style="width:850px">
+<img src="https://raw.githubusercontent.com/mysan91/Milestoneprojectone/master/assets/images/one.JPG" style="width:850px">
 
 
 # Robins Machines
