@@ -1,21 +1,23 @@
-<img src="https://raw.githubusercontent.com/mysan91/Milestoneprojectone/master/assets/images/project.JPG" style="width:850px">
+<img src="https://github.com/mysan91/Milestoneprojectone/blob/4692e32a85aaecf9cecc770f20f81e1b1930d946/assets/images/one.JPG" style="width:850px">
 
 
 # Robins Machines
 
-My Project is my partner`s company. It is a small company and runs some smaller jobs. The Project is about showing the iser what kind of company it is and what kind of jobs the dompany does.
+My Project is my partner`s company. It is a small company and runs some smaller jobs. The Project is about showing the user what kind of company it is and what kind of jobs the company does.
+And how to get in contact. 
 
 ## UX
 
 ### Project Goals
-The goal of this project is to provide the user with information and knowledge about the company and the types os jobs preformed and also what kind of machines that is being used.
+The goal of this project is to provide the user with information and knowledge about the company and the types os jobs preformed and also how to get in contact for a request. 
 
 ### User Goals 
 *Find the information needed about the company.
 *Find information about erlier jobs.    
- *Images. 
- *Contact the owner of the site. 
+ *Images of previous jobs being made
+ *Contact . 
  * Sent a email.
+ 
 
 ### User Stories
      *As the user i want it to be easy to find the right type of information easy. 
@@ -38,16 +40,22 @@ The goal of this project is to provide the user with information and knowledge a
 
 ### Design Choices 
 *I wanted to have a easy but informative website. 
-*I have chosen to include a few colors to get a simple and uniform website.
-*The colors is white and gray. Fonts being used is Roberto.
+*I have chosen to have the background colour in white and the font to be black. 
+* Fonts being used is Roberto and Times new Roman. With the font sizes on 20px 18px. 
 * And the icons is from font Awsome and i adjusted the size of the icons so it looks more appealing.
 
 
-The Index site Is the home page and it will be a navigation bar and a welcome note and one picture.
+The Index site Is the home page and it will be a navigation bar in the middle top, The whole page is a scrolled page. And the first thing on the site is the navbar and 
+a bigger picture of machines. 
 
-The about site Here is a shorter text about the company, visually a bit text and then the navigation bar and footer i showing. The Gallery site In the Gallery i have 4 pictures of the machines and a shorter text what the picture is about.
+The About section is with a short text that is being centred. 
 
-The contact site On this site there is a form where you can send a request or just a question.
+The Gallery section contains 6 pictures where there is also a shorter description of what is shown in the picture.
+
+The Contact sections is with a form to make it easy to send a request and get in contact. 
+
+
+The page is a scrollpage with the footer and the navbar being fixed, if your scroll down the page both will fallow. 
 
 ## Features
 
@@ -62,6 +70,7 @@ The contact site On this site there is a form where you can send a request or ju
  ###### Features that will be implemented in the future: 
  * More pictures in the gallery.
   * Rolling pictures in the welcome site.
+  * more content 
 
 ## Technologies used 
 
@@ -71,18 +80,19 @@ The contact site On this site there is a form where you can send a request or ju
 
 ### Tools & Libraries 
 * Git 
-*Font-Awsome
+* Font-Awsome
 * Google Fonts
+* w3schools.com CSS Libraries. 
+
 
 ## Testing
 
 When testing i have been working with validator.w3.org for the HTML and for the CSS jogsaw.w3.org validator.
 
-When testing the first time i got a few errors regarding the icon links. And the links to each site. I first started doint the project in visual studios but later on changed to gitpod and then i hadent made a few changes to connect each website. And i also got a warning regardning one section that lacked a h element. And that has been changed so the warning isent showing.
+When testing the first time i got a few errors regarding the icon links. A warning regardning one section that lacked a h element and a few misses to start or close the div and section tags. 
 
-Testing later i got a few errors about the social links and icons that the end tag of was missing. The problem was then fixed and the error did not show again. Also one paragraph text missed the end tag and the problem was fixed.
 
-A lot of missing end tags at each time for testing. All has been fixed.
+
 
 When validating the Style css i got no errors.
 
@@ -97,5 +107,7 @@ I did also have trubble to commit everything i noticed that when i did changes a
 Content The content is from my partner and me.
 
 Media The photos is from me and my partner.
+
+I have been using the W3 schools own Libraries. 
 
 Acknowledgements I got insperations because my partner did not have a website for his company. Its something we talked about earlier so when the milestone came i already knew what to do.
